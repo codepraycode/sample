@@ -1,3 +1,5 @@
 #ifndef main_H
+/*
+	# get it done at once
+*/
 
-# get it done at once
