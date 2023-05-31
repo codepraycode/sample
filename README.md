@@ -7,9 +7,9 @@ This is a sample repository to demostrate some basic github features.
 To clone a repo in git, all you have to do is run `git clone <repo url>` in your terminal.
 
 ## How to push codes.
-- git add .
-- git commit -m "your comment"
-- git push
+- run `git add .` (or `git add <file name>`)
+- run `git commit -m <"your comment">`
+- run `git push`
 
 ## How to associate a commit to an issue
 
